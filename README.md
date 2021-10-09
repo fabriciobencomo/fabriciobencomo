@@ -8,7 +8,9 @@ Class Fabricio_Bencomo{
   
   public level = "Junior";
   
-  public Tech = ["MySQL", "PHP", "HTML", "SASS", "JAVASCRIPT", "CSS", "NODE", "GULP"];
+  public Languages = ["SQL", "PHP", "HTML", "JAVASCRIPT", "CSS", "C#"];
+  
+  public Tools = ["Laravel", "MySqlWorkbrench", "Vue", "Gulp", "Node"];
   
   public hobbies = ["Music", "Videogames", "Code"];
   
