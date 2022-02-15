@@ -2,7 +2,6 @@
 
 # I'm Web Developer :computer:
 
-- :battery: I'm Currently Looking for a job
 - :art: I'm Currently learning a bit of everything
 - :dart:  2022 Goal: start to collaborate in Open Source Projects
 - :video_game: Why Software enginner?: since i was a child always love the videogames and asking myself how can i create a game?
