@@ -4,8 +4,7 @@
 
 - :art: I'm Currently learning a bit of everything
 - :dart:  2022 Goal: start to collaborate in Open Source Projects
-- :video_game: Why Software enginner?: since i was a child always love the videogames and asking myself how can i create a game?
-- :roller_coaster: today i know the answer but it's a long and hard path, hoping one day reach my goals.
+- 🫀 I love IT world, I'm passionate about solving problems
 
 ## Connect With Me :inbox_tray:
 <a href="https://www.linkedin.com/in/fabricio-bencomo-644829181/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
