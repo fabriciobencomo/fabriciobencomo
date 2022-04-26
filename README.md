@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/fabricioben" target="blank"><img src="https://img.shields.io/twitter/follow/fabricioben?logo=twitter&style=for-the-badge" alt="fabricioben" /></a> </p>
 
-- 🌱 I’m currently learning **Haskell**
+- 🌱 I’m currently learning how to be better
 
 - 💬 Ask me about **Laravel or Vue**
 
