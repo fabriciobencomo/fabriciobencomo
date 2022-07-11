@@ -1,8 +1,6 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Fabricio Bencomo</h1>
 <h3 align="center">A passionate fullstack dev (PHP rules)</h3>
-<img align="right" alt="coding" width="400" src="https://i0.wp.com/i.giphy.com/media/zOvBKUUEERdNm/giphy-downsized.gif?w=770&ssl=1">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabriciobencomo&label=Profile%20views&color=0e75b6&style=flat" alt="fabriciobencomo" /> </p>
 
