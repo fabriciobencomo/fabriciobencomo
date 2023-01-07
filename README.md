@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabriciobencomo&label=Profile%20views&color=0e75b6&style=flat" alt="fabriciobencomo" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bencomofabricio" target="blank"><img src="https://img.shields.io/twitter/follow/fabricioben?logo=twitter&style=for-the-badge" alt="fabricioben" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bencomofabricio" target="blank"><img src="https://img.shields.io/twitter/follow/bencomofabricio?logo=twitter&style=for-the-badge" alt="bencomofabricio" /></a> </p>
 
 - 🌱 I’m currently learning how to be better
 
