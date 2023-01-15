@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **Fabriciobencomo.viloria@gmail.com**
 
-- ⚡ Fun fact **Fav Game is Superman 64**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
