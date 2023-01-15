@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/bencomofabricio" target="blank"><img src="https://img.shields.io/twitter/follow/bencomofabricio?logo=twitter&style=for-the-badge" alt="bencomofabricio" /></a> </p>
 
-- 🌱 I’m currently learning how to be better
-
-- 💬 Ask me about **Laravel or Vue**
 
 - 📫 How to reach me **Fabriciobencomo.viloria@gmail.com**
 
